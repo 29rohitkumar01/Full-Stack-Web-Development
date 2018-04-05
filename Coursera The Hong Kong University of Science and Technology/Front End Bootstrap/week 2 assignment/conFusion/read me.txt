@@ -1,0 +1,5 @@
+In this week we have learn bootstrap support for
+1)form :form group,group inline
+2)buttons: button group,their style classes(infor,primary,danger,warning etc.)
+3)tables, panel and well
+4)use of bootstrap support for media object and thubmnail for responsive image
