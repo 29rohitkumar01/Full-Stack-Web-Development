@@ -1,2 +1,8 @@
-In this week we have learn bootstrap support for
-1)form :formdsafkjk
+In this week we have learn bootstrap support for javascript components
+updation done in index.html
+1)tabs ,pills, nav bars
+2)collapse javascript plugin that allows us to hide and reveal content
+3)Scrollspy plugin in order to highlight the nav elements based on the scroll position
+4)Affix plugin to first let the nav element scroll with the page, but get fixed at a position on the page after part of the scrolling of the page
+5)Construct the accordion using panels and panel-group class
+6)use of tool tip and carousel
